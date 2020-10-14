@@ -1,4 +1,5 @@
 # Hi, I'm Rylan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Software Engineering student at McMaster University with an interest in web development, cloud computing, and machine learning! Scroll down to see some of my repositories, and how to get in contact with me!
 
 ### What I code with
 
