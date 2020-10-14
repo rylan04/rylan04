@@ -41,9 +41,9 @@ Software Engineering student at McMaster University with an interest in web deve
 
 ### Where to contact me
 
-- yeah
-- yeah
-- yeah
+- LinkedIn: [<img alt="LinkedIn" src="https://img.shields.io/badge/-rylansykes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rylansykes/)
+- Email: [<img alt="Email" src="https://img.shields.io/badge/-rylan.sykes@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:rylan.sykes@outlook.com)
+- My website: [<img alt="Website" src="https://img.shields.io/badge/-Personal_Portfolio-000000?style=for-the-badge&logo=json&logoColor=white" />](https://rylan04.github.io/personal-website/) (Work in progress)
 
 
 
